@@ -2,8 +2,8 @@
 
 ### Olá!, eu sou Felipe Rizzato👋
 
-- 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estou estudando HTML5 e CSS3
+- 🔭 Atualmente trabalho como Analista de Suporte
+- 🌱 Estou estudando HTML5 / CSS3 / JS
 - ⚡ Jogador de CSGO nas horas vagas
 
 <div>
