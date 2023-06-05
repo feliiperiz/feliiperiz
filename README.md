@@ -2,9 +2,15 @@
 
 ### Olá!, eu sou Felipe Rizzato👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱 Estou estudando HTML5 / CSS3 / JS
-- ⚡ Jogador de CSGO nas horas vagas
+Estudante de desenvolvimento Frontend apaixonada por criar experiências interativas e atraentes na web. Atualmente, estou focada em expandir meus conhecimentos em programação e aprimorar minhas habilidades em HTML, CSS e JavaScript. Além disso, estou me aprofundando no universo dos bancos de dados, com o SQL Server.
+
+Tenho explorado os fundamentos do desenvolvimento web, incluindo a criação de layouts responsivos, a otimização de desempenho e a implementação das melhores práticas de acessibilidade. Estou constantemente aprendendo e acompanhando as tendências mais recentes do setor para fornecer soluções inovadoras e intuitivas.
+
+Atualmente, estou trabalhando com o SQL Server, aprimorando minhas habilidades em modelagem de dados, consultas complexas e otimização de consultas. Meu objetivo é adquirir experiência prática em projetos desafiadores, onde possa aplicar meus conhecimentos técnicos e trabalhar em equipe para alcançar resultados excepcionais.
+
+Além disso, estou empenhada em aprimorar minhas habilidades de comunicação e expandir minha rede profissional. Estou aprendendo inglês e me esforçando para alcançar fluência para colaborar de forma eficaz em ambientes internacionais.
+
+Sou uma pessoa colaborativa, com habilidades eficazes de comunicação e uma mentalidade orientada para resolução de problemas. Estou sempre pronta para enfrentar novos desafios e adquirir conhecimentos adicionais para expandir meu conjunto de habilidades.
 
 <div>
   <a href="https://github.com/feliiperiz">
